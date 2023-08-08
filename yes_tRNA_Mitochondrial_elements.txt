@@ -1,0 +1,22 @@
+mito	576	647	trnF(gaa)	+
+mito	1601	1670	trnV(tac)	+
+mito	3229	3304	trnL2(taa)	+
+mito	4262	4331	trnI(gat)	+
+mito	4328	4400	trnQ(ttg)	-
+mito	4401	4469	trnM(cat)	+
+mito	5511	5579	trnW(tca)	+
+mito	5586	5655	trnA(tgc)	-
+mito	5656	5729	trnN(gtt)	-
+mito	5760	5826	trnC(gca)	-
+mito	5825	5891	trnY(gta)	-
+mito	7445	7514	trnS2(tga)	-
+mito	7517	7585	trnD(gtc)	+
+mito	8294	8364	trnK(ttt)	+
+mito	9990	10058	trnG(tcc)	+
+mito	10404	10469	trnR(tcg)	
+mito	12137	12206	trnH(gtg)	+
+mito	12206	12265	trnS1(gct)	+
+mito	12265	12336	trnL1(tag)	+
+mito	14673	14742	trnE(ttc)	-
+mito	15887	15953	trnT(tgt)	+
+mito	15955	16023	trnP(tgg)	-

@@ -1,0 +1,16 @@
+mito	647	1601	rrnS	+
+mito	1670	3229	rrnL	+
+mito	3288	4263	nad1	+
+mito	4469	5513	nad2	+
+mito	5903	7445	cox1	+
+mito	7585	8269	cox2	+
+mito	8365	8572	atp8	+
+mito	8526	9207	atp6	+
+mito	9206	9991	cox3	+
+mito	10058	10404	nad3	+
+mito	10469	10766	nad4l	+
+mito	10759	12137	nad4	+
+mito	12342	14148	nad5	+
+mito	14148	14673	nad6	-
+mito	14746	15887	cob	
+				
