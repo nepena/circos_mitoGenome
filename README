@@ -13,7 +13,7 @@ Keep in mind that PATHS to FASTA genome and BEDFILE must be correct to properly 
 Also add circos and seqkit to your PATH to run. The following are where I placed each program 
 and exported the to my PATHS. 
     export PATH=~/software/circos/current/bin:$PATH
-    export PATH=/opt/homebrew/bin/:$PATh 
+    export PATH=/opt/homebrew/bin/:$PATH
 
 
 
