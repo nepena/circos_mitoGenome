@@ -4,6 +4,22 @@ Using previous used written code to generate plot
 L"https://github.com/photocyte/plot_mitochondrial_genome_with_CIRCOS/blob/master/README.md"
 
 
-README Revision History:
+To run program: 
+
+bash ./used_commands.txt
+
+
+Keep in mind that PATHS to FASTA genome and BEDFILE must be correct to properly run 
+Also add circos and seqkit to your PATH to run. The following are where I placed each program 
+and exported the to my PATHS. 
+    export PATH=~/software/circos/current/bin:$PATH
+    export PATH=/opt/homebrew/bin/:$PATh 
+
+
+
+
+
+README Revision History:py
 2023.08.07	Started README and added source code links 
+2023.08.08 Added executable commmands as well as PATH information
 
